@@ -4,9 +4,9 @@ Welcome to the Snake Game, where the only requirement is being a Chad Coder!  Th
 
 Features 
 
-  Console-based gameplay: No fancy GUI, just raw coding vibes.
+  Console-based gameplay: No fancy GUI, just raw coding .
 
-  Dynamic gameplay: The snake grows longer as it gobbles up food.
+  Dynamic gameplay: The snake grows longer as it eats up food.
 
   High-score tracking: Because Chad Coders love to compete (with themselves).
 
